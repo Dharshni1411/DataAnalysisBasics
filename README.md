@@ -1,5 +1,7 @@
 # DataAnalysisBasics
  In this we'll be discusing the basic concepts of Data Analysis
+ 
+ 
    -> random sampling
    
    -> ztest one sample
